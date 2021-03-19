@@ -8,7 +8,7 @@
 </p>
 
 
-## This is where you paste your codes
+<p> This is where you paste your codes </p>
 
 
 ## About Laravel
